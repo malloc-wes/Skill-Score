@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 5s linear;
+  height: 80px;
+  top: 8px;
+  left: 16px;
+  font-size: 18px;
+}
+
+.App-header {
+  background-color: rgb(255, 255, 255);
+  height: 50px;
+  color: white;
+
+}
+
+.App-title {
+  position: top-left;
+  padding-bottom: 20px;
+  color: black;
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.box {
+
+  position: relative;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+
+}
+
+.datapull {
+
+color: rgb(56, 55, 55);
+font-family: roboto;
+
+}
